@@ -1,8 +1,7 @@
 # MIST4610GroupProjectDataModel
 
 
-Team Name:
-Schema_Squad - Group 5
+# Team Name: Schema_Squad - Group 5
 
 Team Members: 
 
