@@ -41,4 +41,16 @@ Finally, one physician sometimes sends a patient to another. Referrals is an ass
 <img width="2475" height="1327" alt="Group5Model" src="https://github.com/user-attachments/assets/3cbc4d8d-cac7-4934-ac50-bb8a4a372c9f" />
 
 
+# Data Dictionary 
+
+<img width="3000" height="1316" alt="data_dictionary_1_Appointments" src="https://github.com/user-attachments/assets/9323d356-7b0c-473a-b64a-d55e5a71c70f" />
+<img width="3000" height="2012" alt="data_dictionary_5_Prescriptions" src="https://github.com/user-attachments/assets/ed09c62a-23af-4534-be30-3a498d53b58c" />
+<img width="3000" height="2052" alt="data_dictionary_4_Patients" src="https://github.com/user-attachments/assets/eb15ae3c-6cb6-4f52-af1b-045e2ff5e75e" />
+<img width="3000" height="2050" alt="data_dictionary_3_Medical_Encounters" src="https://github.com/user-attachments/assets/ccd769c7-e039-4348-91fa-557207c8fc19" />
+<img width="3000" height="2166" alt="data_dictionary_2_Billing_Claims" src="https://github.com/user-attachments/assets/4defe10c-04d2-4f60-b839-d51807ff403c" />
+
+
+
+
+
 
