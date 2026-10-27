@@ -5,11 +5,11 @@
 
 Team Members: 
 
-Chex Schirripa fcs42496@uga.edu 
+Chex Schirripa @Schirripa81
 
 Roee Peled rp46411@uga.edu
 
-Luke Phillips lkp21071@uga.edu
+Luke Phillips @lukephillips810
 
 Grace Rogers ger42695@uga.edu
 
