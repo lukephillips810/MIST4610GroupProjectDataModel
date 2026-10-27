@@ -49,7 +49,7 @@ Finally, one physician sometimes sends a patient to another. Referrals is an ass
 <img width="3000" height="2050" alt="data_dictionary_3_Medical_Encounters" src="https://github.com/user-attachments/assets/ccd769c7-e039-4348-91fa-557207c8fc19" />
 <img width="3000" height="2166" alt="data_dictionary_2_Billing_Claims" src="https://github.com/user-attachments/assets/4defe10c-04d2-4f60-b839-d51807ff403c" />
 
-
+# Queries:
 
 
 
