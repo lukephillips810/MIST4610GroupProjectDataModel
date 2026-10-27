@@ -56,6 +56,13 @@ Schema name on the MySQL server: **SchemaSquad**
 
 The database has 15 tables, and every table holds 50 rows of sample data.
 
+<img width="1870" height="1445" alt="GPDEL4_SchemaSquad_PopulatedTables_page5" src="https://github.com/user-attachments/assets/d494fd11-6203-4789-86b3-827214933e50" />
+<img width="1870" height="1445" alt="GPDEL4_SchemaSquad_PopulatedTables_page4" src="https://github.com/user-attachments/assets/59cabe93-814b-4569-96cb-8d1a99328fca" />
+<img width="1870" height="1445" alt="GPDEL4_SchemaSquad_PopulatedTables_page3" src="https://github.com/user-attachments/assets/e92b965b-dfa3-4d59-903c-d3729f30f089" />
+<img width="1870" height="1445" alt="GPDEL4_SchemaSquad_PopulatedTables_page2" src="https://github.com/user-attachments/assets/aaa40f40-3c3d-4e8f-b1c6-7b5f41fedc1f" />
+<img width="1870" height="1445" alt="GPDEL4_SchemaSquad_PopulatedTables_page1" src="https://github.com/user-attachments/assets/bb9e3158-c463-4cba-a7dd-3374dca86678" />
+
+
 # Queries:
 
 
