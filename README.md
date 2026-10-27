@@ -13,7 +13,7 @@ Luke Phillips @lukephillips810
 
 Grace Rogers ger42695@uga.edu
 
-Anika Rawi ar67889@uga.edu
+Anika Rawi @anikarawi
 
 Misael Rufael mhr85142@uga.edu
 
