@@ -11,7 +11,7 @@ Roee Peled rp46411@uga.edu
 
 Luke Phillips lkp21071@uga.edu
 
-Grace Rodgers ger42695@uga.edu
+Grace Rogers ger42695@uga.edu
 
 Anika Rawi ar67889@uga.edu
 
