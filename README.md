@@ -39,7 +39,7 @@ Finally, one physician sometimes sends a patient to another. Referrals is an ass
 
 
 <img width="2475" height="1327" alt="Group5Model" src="https://github.com/user-attachments/assets/3cbc4d8d-cac7-4934-ac50-bb8a4a372c9f" />
-
+Our database tracks each visit from scheduling through reimbursement. It stores who the patient and physician are, when and how the visit happened, what the encounter record says, which medications were prescribed, which referrals were made, and where each insurance claim stands. Dollar amounts are not stored, including charges, payments and copays, so we can see the status of a claim but not what it is worth. Diagnoses, vitals and lab results are also missing beyond the encounter's clinical record text, and the same goes for physician availability or schedules and for patient details past name and contact information.
 
 # Data Dictionary 
 
