@@ -44,11 +44,11 @@ Our database tracks each visit from scheduling through reimbursement. It stores 
 
 # Data Dictionary 
 
-<img width="3000" height="1316" alt="data_dictionary_1_Appointments" src="https://github.com/user-attachments/assets/9323d356-7b0c-473a-b64a-d55e5a71c70f" />
-<img width="3000" height="2012" alt="data_dictionary_5_Prescriptions" src="https://github.com/user-attachments/assets/ed09c62a-23af-4534-be30-3a498d53b58c" />
-<img width="3000" height="2052" alt="data_dictionary_4_Patients" src="https://github.com/user-attachments/assets/eb15ae3c-6cb6-4f52-af1b-045e2ff5e75e" />
-<img width="3000" height="2050" alt="data_dictionary_3_Medical_Encounters" src="https://github.com/user-attachments/assets/ccd769c7-e039-4348-91fa-557207c8fc19" />
-<img width="3000" height="2166" alt="data_dictionary_2_Billing_Claims" src="https://github.com/user-attachments/assets/4defe10c-04d2-4f60-b839-d51807ff403c" />
+<img width="3000" height="1316" alt="data_dictionary_1_Appointments" src="https://github.com/user-attachments/assets/d1f08985-41e7-4034-89cb-3a68b9a4091b" />
+<img width="3000" height="2012" alt="data_dictionary_5_Prescriptions" src="https://github.com/user-attachments/assets/dc75eef7-251a-4e4c-a53c-1fd719adad92" />
+<img width="3000" height="2052" alt="data_dictionary_4_Patients" src="https://github.com/user-attachments/assets/5ba1db3a-9327-4538-b1d3-81d2504d97c3" />
+<img width="3000" height="2050" alt="data_dictionary_3_Medical_Encounters" src="https://github.com/user-attachments/assets/923347e8-0924-4fbc-a713-3b64e248ac04" />
+<img width="3000" height="2166" alt="data_dictionary_2_Billing_Claims" src="https://github.com/user-attachments/assets/395deca5-36fc-40ae-8cfb-9810eefc7bd7" />
 
 # Queries:
 
