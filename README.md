@@ -38,7 +38,8 @@ After the visit comes billing. An encounter is billed through one or many Billin
 Finally, one physician sometimes sends a patient to another. Referrals is an associative entity that connects two Physicians, the referring physician who sends it and the receiving physician who gets it, which makes it a recursive many to many relationship on Physicians. Each referral is also tied to the Patient being referred and to the Medical_Encounter that triggered it. Each referral results in zero or one Appointment, and an appointment comes from at most one referral, which brings the story back to where it started.
 
 
-<img width="2475" height="1327" alt="Group5Model" src="https://github.com/user-attachments/assets/3cbc4d8d-cac7-4934-ac50-bb8a4a372c9f" />
+<img width="1555" height="964" alt="mb_SchemaSquad" src="https://github.com/user-attachments/assets/9f9cb6dc-9607-4d05-b62a-cfc02d76249b" />
+
 Our database tracks each visit from scheduling through reimbursement. It stores who the patient and physician are, when and how the visit happened, what the encounter record says, which medications were prescribed, which referrals were made, and where each insurance claim stands. Dollar amounts are not stored, including charges, payments and copays, so we can see the status of a claim but not what it is worth. Diagnoses, vitals and lab results are also missing beyond the encounter's clinical record text, and the same goes for physician availability or schedules and for patient details past name and contact information.
 
 # Data Dictionary 
