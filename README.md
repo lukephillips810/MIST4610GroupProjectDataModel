@@ -50,6 +50,12 @@ Our database tracks each visit from scheduling through reimbursement. It stores 
 <img width="3000" height="2050" alt="data_dictionary_3_Medical_Encounters" src="https://github.com/user-attachments/assets/923347e8-0924-4fbc-a713-3b64e248ac04" />
 <img width="3000" height="2166" alt="data_dictionary_2_Billing_Claims" src="https://github.com/user-attachments/assets/395deca5-36fc-40ae-8cfb-9810eefc7bd7" />
 
+# Database Information
+
+Schema name on the MySQL server: **SchemaSquad**
+
+The database has 15 tables, and every table holds 50 rows of sample data.
+
 # Queries:
 
 
