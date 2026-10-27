@@ -5,15 +5,15 @@
 
 Team Members: 
 
-Chex Schirripa @Schirripa81
+Chex Schirripa [@Schirripa81](https://github.com/Schirripa81)
 
 Roee Peled rp46411@uga.edu
 
-Luke Phillips @lukephillips810
+Luke Phillips [@lukephillips810](https://github.com/lukephillips810)
 
 Grace Rogers ger42695@uga.edu
 
-Anika Rawi @anikarawi
+Anika Rawi [@anikarawi](https://github.com/anikarawi)
 
 Misael Rufael mhr85142@uga.edu
 
